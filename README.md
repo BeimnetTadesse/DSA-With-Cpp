@@ -1,4 +1,4 @@
-# DSA with C++ 🚀
+# DSA with C++ 
 
 This repository contains implementations of fundamental **Data Structures and Algorithms (DSA)** using C++. Each implementation focuses on different techniques, including **queues, stacks, linked lists, trees, sorting algorithms, and more.**
 
